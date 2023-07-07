@@ -1,2 +1,3 @@
-# gear-foundation.github.io
-Gear dApps website
+# Docs website
+
+📝 <https://dapp.rs>
