@@ -1,2 +1,2 @@
-# gear-dapps.github.io
+# gear-foundation.github.io
 Gear dApps website
